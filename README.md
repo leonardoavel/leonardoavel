@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Leonardo Avelino de Pádua Alves, tenho 25 anos e sou natural de Belo Horizonte, Minas Gerais. Sou formado em Sistemas de Informação pela UNA e possuo pós-graduação em Inteligência Artificial e Ciência de Dados pela mesma instituição. Apaixonado por tecnologia e suas diversas aplicações, busco constantemente explorar novas soluções e inovações no mundo digital. Meu interesse vai além do código; gosto de entender a natureza da tecnologia, seu impacto e como pode transformar o futuro.
+Me chamo Leonardo Avelino de Pádua Alves, tenho 25 anos e sou natural de Belo Horizonte, Minas Gerais. Sou formado em Sistemas de Informação pela UNA, pós-graduação em Inteligência Artificial e Ciência de Dados pela mesma instituição. Apaixonado por tecnologia e suas diversas aplicações, busco constantemente explorar novas soluções e inovações no mundo digital. Meu interesse vai além do código; gosto de entender a natureza da tecnologia, seu impacto e como pode transformar o futuro.
 
 <div> 
   <a href="https://www.linkedin.com/in/leonardo-avelino-de-pádua-alves-78b621213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
