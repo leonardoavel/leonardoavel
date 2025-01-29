@@ -4,22 +4,10 @@
 
 Me chamo Leonardo Avelino de Pádua Alves, tenho 25 anos e sou natural de Belo Horizonte, Minas Gerais. Sou formado em Sistemas de Informação pela UNA e possuo pós-graduação em Inteligência Artificial e Ciência de Dados pela mesma instituição. Apaixonado por tecnologia e suas diversas aplicações, busco constantemente explorar novas soluções e inovações no mundo digital. Meu interesse vai além do código; gosto de entender a natureza da tecnologia, seu impacto e como pode transformar o futuro.
 
-<p align="left">
-    <a href="https://github.com/leonardoalves?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/leonardoavel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/leonardoavel?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/leonardoavel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div> 
+  <a href="https://www.linkedin.com/in/leonardo-avelino-de-pádua-alves-78b621213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 
@@ -108,3 +96,5 @@ Me chamo Leonardo Avelino de Pádua Alves, tenho 25 anos e sou natural de Belo H
 
 <br/>
 <br/>
+
+---
